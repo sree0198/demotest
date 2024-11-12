@@ -1,0 +1,10 @@
+# Application configuration
+app:
+  name: SampleWebApp
+  version: 1.0
+
+# Server configuration
+server:
+  host: "localhost"
+  port: 3000
+  enable_logs: false  
